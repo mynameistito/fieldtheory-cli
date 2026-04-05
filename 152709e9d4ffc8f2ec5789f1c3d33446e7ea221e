@@ -1,0 +1,23 @@
+package.json
+  c23d6bc7d698d124 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "152709e9d4ffc8f2ec5789f1c3d33446e7ea221e",
+  "prompts": {
+    "c23d6bc7d698d124": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0a8331c-4a2a-41b8-9633-aa0d25de81e7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 2,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}

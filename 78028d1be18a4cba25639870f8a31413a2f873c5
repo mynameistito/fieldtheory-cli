@@ -1,0 +1,25 @@
+src/chrome-cookies.ts
+  c23d6bc7d698d124 1-2,12-13,48-195,198-199,209-211,223-225,287-288,316-317,334-343,345-346,353-369,371-376,390-394,404-410,421-422
+src/cli.ts
+  c23d6bc7d698d124 121-127,131,245-246,276-277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "78028d1be18a4cba25639870f8a31413a2f873c5",
+  "prompts": {
+    "c23d6bc7d698d124": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0a8331c-4a2a-41b8-9633-aa0d25de81e7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 243,
+      "total_deletions": 30,
+      "accepted_lines": 229,
+      "overriden_lines": 0
+    }
+  }
+}
